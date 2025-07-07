@@ -189,5 +189,4 @@ const shortDescriptions = {
 };
 
 // console.log({ appNames, allTranslations, shortDescriptions, APP_NAME });
-
 export { allTranslations, appNames, shortDescriptions, APP_NAME };
